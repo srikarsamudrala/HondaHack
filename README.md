@@ -4,8 +4,10 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 
-### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
+### Team
+- Srikar Samudrala
+- Sharan Babu
+- Dhanya 
 
 ### Code Requirements
 - Opencv
