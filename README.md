@@ -14,14 +14,4 @@
 
 ### What steps you have to follow??
 - Download my repository 
-- And run `Car_detection.py`
-
-### Video demo
-
-[Youtube](https://youtu.be/TiXSnIo5LOo)
-
-## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
-## Donate me on GPAY:- kushalbhavsar58-1@okaxis
-
-## Just follow☝️ me and Star⭐ my repository 
+- And run `voice.py`
